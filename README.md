@@ -4,8 +4,8 @@
 * Email service functionality to designate email addresses to deliver newletter to.
 
 ## Images
-![Newsletter1](newsletter1.jpeg)
-![Newsletter2](newsletter2.jpeg)
+![Newsletter1](/images/newsletter1.jpeg)
+![Newsletter2](/images/newsletter2.jpeg)
 
 ## Technologies
 Project is created with:
