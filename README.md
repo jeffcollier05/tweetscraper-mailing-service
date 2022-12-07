@@ -5,8 +5,8 @@
 
 ## Images
 <p float="left">
-  <img src="/images/newsletter1.jpeg" width=40% height=40% />
-  <img src="/images/newsletter2.jpeg" width=40% height=40% />
+  <img src="/images/newsletter1.jpeg" width=20% height=20% />
+  <img src="/images/newsletter2.jpeg" width=20% height=20% />
 </p>
 
 ## Technologies
