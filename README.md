@@ -6,8 +6,8 @@
 ## Technologies
 Project is created with:
 * Python 3.10.6
-* Python-docx: 0.8.11
-* Tweet-capture: 0.1.3
+* Python-docx 0.8.11
+* Tweet-capture 0.1.3
 * Pillow 9.3.0
 
 ## Setup
@@ -24,3 +24,5 @@ In my "settings.py", there are three options for tweet filteration currently. Th
 ```
 > python scraper.py
 ```
+Warnings:
+* Recommend putting all files into a folder before running project. Tweet-capture downloads png photos of each tweet and saves them to the location of project running. A folder cleaning function is called to clean files at conclusion but best practice to run in an isolateed folder.
