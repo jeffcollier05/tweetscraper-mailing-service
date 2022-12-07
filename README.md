@@ -1,14 +1,14 @@
 ## Tweetscraper Mailing Service
-Efficiently generates a twitter newsletter from your chosen twitter handle.
-Supports tweet filters such as date-posted and can apply a limit of tweets per newsletter.
-Email service functionality to designate email addresses to deliver newletter to.
+* Efficiently generates a twitter newsletter from your chosen twitter handle.
+* Supports tweet filters such as date-posted and can apply a limit of tweets per newsletter.
+* Email service functionality to designate email addresses to deliver newletter to.
 
 ## Technologies
 Project is created with:
-Python 3.10.6
-Python-docx: 0.8.11
-Tweet-capture: 0.1.3
-Pillow 9.3.0
+* Python 3.10.6
+* Python-docx: 0.8.11
+* Tweet-capture: 0.1.3
+* Pillow 9.3.0
 
 ## Setup
 To use this project on Windows, need to download libraries:
