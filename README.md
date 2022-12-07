@@ -4,12 +4,9 @@
 * Email service functionality to designate email addresses to deliver newletter to.
 
 ## Images
-<img src="/images/newsletter1.jpeg" width=50% height=50%>
-<img src="/images/newsletter2.jpeg" width=50% height=50%>
-
 <p float="left">
-  <img src="/images/newsletter1.jpeg" width=25% height=25% />
-  <img src="/images/newsletter2.jpeg" width=25% height=25% />
+  <img src="/images/newsletter1.jpeg" width=40% height=40% />
+  <img src="/images/newsletter2.jpeg" width=40% height=40% />
 </p>
 
 ## Technologies
