@@ -2,6 +2,7 @@
 * Efficiently generates a twitter newsletter from your chosen twitter handle.
 * Supports tweet filters such as date-posted and can apply a limit of tweets per newsletter.
 * Email service functionality to designate email addresses to deliver newletter to.
+* Intention is to initialize project on a server to deliver daily newsletters to subscribed emails.
 
 ## Images
 <p float="left">
