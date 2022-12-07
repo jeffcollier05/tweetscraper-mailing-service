@@ -8,8 +8,8 @@
 <img src="/images/newsletter2.jpeg" width=50% height=50%>
 
 <p float="left">
-  <img src="/images/newsletter1.jpeg" width=50% height=50% />
-  <img src="/images/newsletter2.jpeg" width=50% height=50% />
+  <img src="/images/newsletter1.jpeg" width=25% height=25% />
+  <img src="/images/newsletter2.jpeg" width=25% height=25% />
 </p>
 
 ## Technologies
