@@ -3,6 +3,10 @@
 * Supports tweet filters such as date-posted and can apply a limit of tweets per newsletter.
 * Email service functionality to designate email addresses to deliver newletter to.
 
+## Images
+![Newsletter1](/images/newsletter1.jpg)
+![Newsletter2](/images/newsletter2.jpg)
+
 ## Technologies
 Project is created with:
 * Python 3.10.6
