@@ -25,4 +25,4 @@ In my "settings.py", there are three options for tweet filteration currently. Th
 > python scraper.py
 ```
 Warnings:
-* Recommend putting all files into a folder before running project. Tweet-capture downloads png photos of each tweet and saves them to the location of project running. A folder cleaning function is called to clean files at conclusion but best practice to run in an isolateed folder.
+* Recommend putting all files into a folder before running project. Tweet-capture downloads png photos of each tweet and saves them to the location of project running. A folder cleaning function is called to clean files at conclusion but best practice to run in an isolated folder.
